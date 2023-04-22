@@ -1,0 +1,22 @@
+.Nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 10vh;
+}
+
+.Nav-link {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0px 12px;
+  text-decoration: none;
+}
+
+.Nav-link span {
+  margin-left: 5px;
+}
+
+.Nav-link:hover {
+  color: #cccccc;
+  text-decoration: underline;
+}

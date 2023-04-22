@@ -4,9 +4,8 @@
   box-sizing: border-box;
   background-color: #282c34;
   color: white;
-}
-
-.App.esDeDia {
-  background-color: #fff;
-  color: #000;
+  &.esDeDia {
+    background-color: #fff;
+    color: #000;
+  }
 }
